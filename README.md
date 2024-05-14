@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Mukhammed.
+- 👋 I’m Mukhammed.
 - 👀 I’m interested in front-end.
-- 🌱 I’m currently learning JavaScript.
 
-- Skills: HTML, CSS, SCSS, JavaScript.
+- Technologies: HTML(HTML5), CSS(CSS3), SCSS, JavaScript, BEM.
 
-- I love making responsive and adaptive websites. My repositories prove it!
+- I love making responsive, adaptive and user-friendly websites. My repositories prove it!
 
 <!---
 mukhammed2021/mukhammed2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
